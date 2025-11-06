@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm Sruu  
-*AI Explorer | Full Stack Enthusiast | Python Wizard*
+# Hi there! I'm Sruthi 
+*AI/ML Engineer | Full Stack Developer | Python Wizard*
 
 ---
 
 ### 🌌 About Me
-I’m a tech adventurer exploring the **intersection of AI, data, and creativity**. I love turning **data into insights** and **ideas into interactive experiences**.  
+I’m a tech adventurer exploring the intersection of AI, data, and creativity. I love building intelligent applications, developing machine learning models, and turning complex data into actionable insights. Whether it’s creating interactive web apps, experimenting with deep learning, or visualizing data in engaging ways, I enjoy bringing ideas to life with technology.**.  
 
 ---
 
@@ -57,11 +57,6 @@ Superset / Fluentd 🟢🟢🟢🟢⚪
 [![Node.js](https://img.shields.io/badge/-Node.js-333?style=for-the-badge&logo=node.js)](https://nodejs.org/)  
 [![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=for-the-badge&logo=pytorch)](https://pytorch.org/)  
 [![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/)  
-
----
-
-### 🖥 Coding Platforms
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Roboto&ext=activity)](https://leetcode.com/your_leetcode_username)
 
 ---
 
