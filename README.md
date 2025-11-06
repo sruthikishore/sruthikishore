@@ -10,7 +10,7 @@ I’m a tech adventurer exploring the intersection of AI, data, and creativity. 
 
 ### 🚀 What I’m Up To
 - Diving into **Deep Learning & Full Stack Development**  
-- Building **AI-powered tools with Explainable AI (XAI)**  
+- Building **AI-powered tools**  
 - Experimenting with **data visualization and interactive web apps**  
 
 ---
