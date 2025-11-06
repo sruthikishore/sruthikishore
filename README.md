@@ -4,7 +4,7 @@
 ---
 
 ### 🌌 About Me
-I’m a tech adventurer exploring the intersection of AI, data, and creativity. I love building intelligent applications, developing machine learning models, and turning complex data into actionable insights. Whether it’s creating interactive web apps, experimenting with deep learning, or visualizing data in engaging ways, I enjoy bringing ideas to life with technology.**.  
+*I’m a tech adventurer exploring the intersection of AI, data, and creativity. I love building intelligent applications, developing machine learning models, and turning complex data into actionable insights. Whether it’s creating interactive web apps, experimenting with deep learning, or visualizing data in engaging ways, I enjoy bringing ideas to life with technology.*.  
 
 ---
 
