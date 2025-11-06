@@ -1,5 +1,5 @@
 # Hi there! I'm Sruthi 
-*AI/ML Engineer | Full Stack Developer | Python Wizard*
+*AI/ML Engineer | Full Stack Developer*
 
 ---
 
@@ -61,7 +61,7 @@ Superset / Fluentd 🟢🟢🟢🟢⚪
 ---
 
 ### 🌟 Fun & Personal
-- 🎨 Portraits & creative designs  
+- 🎨 Portraits & traditional paintings
 - 🏑 State-level athlete & handball player  
 - 🔭 Stargazing & Astronomy Club member  
 - **When I’m coding, you’ll probably find me tinkering with ML models, building web apps, or solving algorithm challenges on LeetCode.**  
@@ -69,4 +69,4 @@ Superset / Fluentd 🟢🟢🟢🟢⚪
 ---
 
 ### 📫 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/sruthe-stashore-78807288) | [Portfolio / GitHub](https://github.com/sruthikishore) | [LeetCode](https://leetcode.com/your_leetcode_username)
+[LinkedIn](https://www.linkedin.com/in/sruthi-kishore-75880728a/) | [LeetCode](https://leetcode.com/u/2iRiY0hIIn/)
